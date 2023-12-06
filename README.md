@@ -4,7 +4,7 @@
 test
 
 ## Architecture
-test
+<img src="Redfin-Architecture.png">
 
 ## Technology used
 test
