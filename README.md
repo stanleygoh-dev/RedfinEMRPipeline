@@ -14,7 +14,7 @@ test
 5. Amazon Web Service (AWS)
 - EMR
 - S3
-- EC2
+- EC2 (Ubuntu)
 - IAM
 - VPC
 
