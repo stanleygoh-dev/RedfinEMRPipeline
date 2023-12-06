@@ -7,14 +7,14 @@ test
 <img src="Redfin-Architecture.png">
 
 ## Technology used
-Bash Scripting
-Python
-Apache Spark (PySpark)
-Apache Airflow
-Amazon Web Service (AWS)： 
-1. EMR
-2. S3
-3. EC2 
-4. IAM 
-5. VPC
+1. Bash Scripting
+2. Python
+3. Apache Spark (PySpark)
+4. Apache Airflow
+5. Amazon Web Service (AWS)： 
+  -EMR
+  -S3
+  -EC2 
+  -IAM 
+  -VPC
 
