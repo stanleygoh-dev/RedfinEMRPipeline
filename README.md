@@ -12,9 +12,9 @@ test
 3. Apache Spark (PySpark)
 4. Apache Airflow
 5. Amazon Web Service (AWS)： 
-  -EMR
-  -S3
-  -EC2 
-  -IAM 
-  -VPC
+- EMR
+- S3
+- EC2 
+- IAM 
+- VPC
 
