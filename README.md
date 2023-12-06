@@ -1,4 +1,4 @@
-# RedfinEMRPipeline
+# Redfin Data EMR ETL Pipeline
 
 ## Overview
 test
