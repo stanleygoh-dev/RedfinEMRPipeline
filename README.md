@@ -1,7 +1,7 @@
 # Redfin Data EMR ETL Pipeline
 
 ## Overview
-test
+This project leverages Apache Airflow to automate EMR jobs and orchestrate a seamless ETL pipeline. It extracts data from the Redfin Datacenter web address, performs data transformations using Spark and PySpark, and efficiently loads both raw and transformed data into an S3 bucket.
 
 ## Architecture
 <img src="Redfin-Architecture.png">
