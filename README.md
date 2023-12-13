@@ -7,7 +7,7 @@ This project leverages Apache Airflow to orchestrate a seamless data pipeline th
 <img src="Redfin-Architecture.png">
 
 ## Technology used
-1. Bash Scripting
+1. Bash Script
 2. Python
 3. Apache Spark (PySpark)
 4. Apache Airflow
